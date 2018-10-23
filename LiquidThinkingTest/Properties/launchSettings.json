@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LiquidThinkingTest": {
+      "commandName": "Project",
+      "commandLineArgs": "-v this is a test"
+    }
+  }
+}
